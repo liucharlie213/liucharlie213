@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liucharlie213
-- 👀 I’m interested in ... full stack development!
+- 👀 I’m interested in ... full stack development and software engineering!
 - 🌱 I’m currently learning ... HMTL, CSS, and Javascript!
 
 <!---
